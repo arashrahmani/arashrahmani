@@ -16,7 +16,6 @@
                                                                                                                              
 ```
 ![](https://github.com/arashrahmani/arashrahmani/blob/master/gifs/new.gif) 
-![Snake animation](https://github.com/arashrahmani/arashrahmani/blob/output/github-contribution-grid-snake.svg)
 <!--
 **arashrahmani/arashrahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
