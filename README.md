@@ -1,5 +1,5 @@
 
-```diff
+<!--```diff
 +                   >>                                                       
 +                  >>=>                                  >=>                 
 +                 >> >=>     >> >==>    >=> >=>   >===>  >=>                 
@@ -7,9 +7,17 @@
 +               >=====>>=>    >=>    >=>    >=>    >==>  >=>  >=>            
 +              >=>      >=>   >=>     >=>   >=>      >=> >>   >=>            
 +             >=>        >=> >==>      >==>>>==> >=> >=> >=>  >=>            
+```-->
+
+```                                                                      
+                   >>                                                    
+                  >>=>                                  >=>              
+                 >> >=>     >> >==>    >=> >=>   >===>  >=>              
+                >=>  >=>     >=>     >=>   >=>  >=>     >=>>=            
+               >=====>>=>    >=>    >=>    >=>    >==>  >=>  >=>         
+              >=>      >=>   >=>     >=>   >=>      >=> >>   >=>         
+             >=>        >=> >==>      >==>>>==> >=> >=> >=>  >=>         
 ```
-
-
 
 <!--### _♨ My name is Arash and I'm studying Software Engineering in QIAU ♨_
 ### _🔭 I’m currently the head of Software Engineering at <a href="https://sites.google.com/view/mrl-hsl" target="_blank">MRL</a> humanoid robots laboratory 🔭_
