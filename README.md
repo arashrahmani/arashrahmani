@@ -1,3 +1,7 @@
+.messagebox-content pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+}
 ```diff
                                                                              
 +                   >>                                                       
